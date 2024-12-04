@@ -1,4 +1,6 @@
-langchain==0.0.274
+langchain
+langchain_huggingface
+langchain_community
 gpt4all==1.0.8
 chromadb==0.4.7
 llama-cpp-python==0.1.81
@@ -11,4 +13,4 @@ tabulate==0.9.0
 pandoc==2.3
 pypandoc==1.11
 tqdm==4.66.1
-sentence_transformers==2.2.2
+sentence_transformers
